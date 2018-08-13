@@ -55,8 +55,8 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
     #FlipFlap
 
 # Gestures
-PRODUCT_PACKAGES += \
-    org.lineageos.keyhandler
+#PRODUCT_PACKAGES += \
+   # org.lineageos.keyhandler
 
 # Input device
 PRODUCT_COPY_FILES += \
